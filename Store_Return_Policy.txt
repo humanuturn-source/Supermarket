@@ -1,8 +1,22 @@
-Customer Return Policy:
-
-- Food items cannot be returned or exchanged due to health and safety regulations.
-- Electronics items can be exchanged within 30 days with a 5% restocking fee, provided they are in original packaging and unused.
-- Medicines cannot be returned or exchanged under any circumstances.
-- All other items can be returned within 14 days for a full refund with proof of purchase.
-- Returns require a valid receipt and items must be in resalable condition.
-- For questions, contact customer service.
+{
+  "Customer Return Policy": [
+    {
+      "rule": "Food items cannot be returned or exchanged due to health and safety regulations."
+    },
+    {
+      "rule": "Electronics items can be exchanged within 30 days with a 5% restocking fee, provided they are in original packaging and unused."
+    },
+    {
+      "rule": "Medicines cannot be returned or exchanged under any circumstances."
+    },
+    {
+      "rule": "All other items can be returned within 14 days for a full refund with proof of purchase."
+    },
+    {
+      "rule": "Returns require a valid receipt and items must be in resalable condition."
+    },
+    {
+      "rule": "For questions, contact customer service."
+    }
+  ]
+}
