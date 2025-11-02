@@ -1,5 +1,16 @@
-Store Working Hours:
-
-- Monday to Friday: 9:00 AM - 9:00 PM
-- Saturday: 10:00 AM - 6:00 PM
-- Sunday: Closed
+{
+  "Store Working Hours": [
+    {
+      "days": "Monday to Friday",
+      "hours": "9:00 AM - 9:00 PM"
+    },
+    {
+      "days": "Saturday",
+      "hours": "10:00 AM - 6:00 PM"
+    },
+    {
+      "days": "Sunday",
+      "hours": "Closed"
+    }
+  ]
+}
