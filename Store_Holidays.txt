@@ -5,5 +5,4 @@ Store Holidays (Closed Days):
 - Independence Day: July 4
 - Thanksgiving Day: Fourth Thursday in November
 - Christmas Day: December 25
-
-Note: The store is closed on these dates. For working hours on other days, refer to the working hours document.
+- Note: The store is closed on these dates. For working hours on other days, refer to the working hours document.
